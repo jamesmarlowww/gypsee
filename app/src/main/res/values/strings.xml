@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gypsee</string>
+    <string name="facebook_app_id">493600047479140</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
